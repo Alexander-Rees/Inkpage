@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+h1 {
+    text-align: center;
+    padding: 20px 0;
+}
+form {
+    width: 60%;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+#dropdown-container {
+    margin-bottom: 20px;
+}
+label {
+    margin-top: 10px;
+    display: block;
+    font-weight: bold;
+}
+select {
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+input[type="submit"] {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    background-color: #5cb85c;
+    color: white;
+    cursor: pointer;
+    margin-right: 10px;
+}
+input[type="submit"]:hover {
+    background-color: #4cae4c;
+}
+.dropdown-entry {
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    margin-bottom: 10px;
+}
+
+.dropdown-entry label {
+    margin-right: 10px;
+}
+
+.dropdown-entry input[type="number"] {
+    margin-left: 10px;
+    padding: 5px;
+    width: auto;
+}
+label[for^="display-time"] {
+    margin-right: 11px; /* Adjust the value as needed */
+}
+

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Choose Newspaper</title>
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+  </head>
+  <body>
+    <h1>Choose the Newspapers to be displayed</h1>
+    <form action="/" method="post">
+      <fieldset>
+        <legend>Please select the page orientation</legend>
+        <div>
+          <label for="portrait">Portrait</label>
+          <input
+            type="radio"
+            id="portrait"
+            name="orientation"
+            value="portrait"
+            checked
+          />
+          <label for="landscape">Landscape</label>
+          <input
+            type="radio"
+            id="landscape"
+            name="orientation"
+            value="landscape"
+          />
+        </div>
+      </fieldset>
+
+      <fieldset>
+        <legend>
+          Please select the newspapers and durations to show the frontpage
+        </legend>
+        <div id="dropdown-container">
+          {% for i in range(count) %}
+          <div class="dropdown-entry">
+            <label for="title-dropdown-{{ i }}">Choose a Newspaper:</label>
+            <select name="titles_{{ i }}" id="title-dropdown-{{ i }}">
+              <option value="" disabled selected>Select a newspaper</option>
+              {% for newspaper in newspapers %}
+              <option value="{{ newspaper['id'] }}">
+                {{ newspaper['title'] }}
+              </option>
+              {% endfor %}
+            </select>
+            <label for="display-time-{{ i }}">Display Time:</label>
+            <select id="display-time-{{ i }}" name="display_time_{{ i }}">
+              <option value="1">1 minute</option>
+              <option value="3">3 minutes</option>
+              <option value="5">5 minutes</option>
+              <option value="10">10 minutes</option>
+            </select>
+          </div>
+          {% endfor %}
+        </div>
+      </fieldset>
+
+      <input type="hidden" name="count" value="{{ count }}" />
+      <div style="text-align: center">
+        <input type="submit" name="add" value="Add" />
+        <input type="submit" name="submit" value="Submit" />
+      </div>
+    </form>
+  </body>
+</html>

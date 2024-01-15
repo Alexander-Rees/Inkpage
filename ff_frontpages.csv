@@ -1,0 +1,479 @@
+id,location,title,longitude,latitude
+AL_DD,"Decatur, Ala. USA",The Decatur Daily,-86.98651123,34.60289001
+AL_DE,"Dothan, Ala. USA",Dothan Eagle,-85.39363098,31.22551727
+AL_EL,"Enterprise, Ala. USA",The Enterprise Ledger,-85.37562561,31.24837303
+AL_TD,"Florence, Ala. USA",TimesDaily,-87.67746735,34.79953766
+AL_MA,"Montgomery, Ala. USA",Montgomery Advertiser,-86.31422424,32.37905121
+AL_OAN,"Opelika, Ala. USA",Opelika-Auburn News,-85.38977051,32.61543274
+AK_ADN,"Anchorage, Alaska USA",Anchorage Daily News,-149.8119659,61.21282578
+AK_FDNM,"Fairbanks, Alaska USA",Fairbanks Daily News-Miner,-147.7224121,64.84612274
+AZ_TNH,"Lake Havasu City, Ariz. USA",Today's News-Herald,-114.3349457,34.49700928
+AZ_AR,"Phoenix, Ariz. USA",The Arizona Republic,-112.0708389,33.45183563
+AZ_DC,"Prescott, Ariz. USA",The Daily Courier,-112.4315948,34.59160614
+AZ_ADS,"Tucson, Ariz. USA",Arizona Daily Star,-110.9583817,32.16434479
+AR_SR,"Hot Springs, Ark. USA",The Sentinel-Record,-93.05187225,34.51084137
+AR_ADG,"Little Rock, Ark. USA",Arkansas Democrat-Gazette,-92.27081299,34.74411011
+CA_BC,"Bakersfield, Calif. USA",The Bakersfield Californian,-119.0287628,35.34912109
+CA_FB,"Fresno, Calif. USA",The Fresno Bee,-119.7860107,36.7403717
+CA_LAT,"Los Angeles, Calif. USA",Los Angeles Times,-118.245285,34.05269241
+CA_LO,"Los Angeles, Calif. USA",La Opinión,-118.2587814,34.04867172
+CA_MSS,"Merced, Calif. USA",Merced Sun-Star,-120.4708405,37.31620407
+CA_MB,"Modesto, Calif. USA",The Modesto Bee,-120.9951248,37.6415863
+CA_WJLA,"Monterey Pk, Calif. USA",World Journal - Los Angeles,-118.1663437,34.04615784
+CA_DS,"Palm Springs, Calif. USA",The Desert Sun,-116.5028763,33.83390427
+CA_RS,"Redding, Calif. USA",Record Searchlight,-122.3929138,40.58752441
+CA_SB,"Sacramento, Calif. USA",The Sacramento Bee,-121.480835,38.56764603
+CA_SDUT,"San Diego, Calif. USA",The San Diego Union-Tribune,-117.1617279,32.7156868
+CA_SFC,"San Francisco, Calif. USA",San Francisco Chronicle,-122.406601,37.78215408
+CA_MN,"San Jose, Calif. USA",The Mercury News,-121.8897629,37.33757019
+CA_TT,"San Luis Obispo, Calif. USA",The Tribune,-120.6625548,35.28551973
+CA_VCS,"Ventura, Calif. USA",Ventura County Star,-119.0506973,34.22291565
+CA_VTD,"Visalia, Calif. USA",Visalia Times-Delta,-119.2929153,36.33377075
+CA_EBT,"Walnut Creek, Calif. USA",East Bay Times,-122.0283813,37.92417526
+CO_TG,"Colorado Springs, Colo. USA",The Gazette,-104.8217316,38.83311081
+CO_DS,"Grand Junction, Colo. USA",The Daily Sentinel,-108.5644544,39.0687903
+CT_CP,"Bridgeport, Conn. USA",Connecticut Post,-73.19126892,41.18188095
+CT_NT,"Danbury, Conn. USA",The News-Times,-73.4553299,41.39754868
+CT_GT,"Greenwich, Conn. USA",Greenwich Time,-73.58768463,41.04189301
+CT_HC,"Hartford, Conn. USA",Hartford Courant,-72.68674469,41.76501083
+CT_MP,"Middletown, Conn. USA",The Middletown Press,-72.65041351,41.56148148
+CT_NHR,"New Haven, Conn. USA",New Haven Register,-72.92701721,41.28642273
+CT_TD,"New London, Conn. USA",The Day,-72.09645081,41.35638428
+CT_TH,"Norwalk, Conn. USA",The Norwalk Hour,-73.42572784,41.13825226
+CT_TA,"Stamford, Conn. USA",Stamford Advocate,-73.54354858,41.05090714
+DE_NJ,"Wilmington, Del. USA",The News Journal,-75.5986557,39.69276428
+DC_WP,"Washington, D.C. USA",The Washington Post,-77.02269745,38.89998245
+DC_WT,"Washington, D.C. USA",The Washington Times,-76.956234,38.917321
+DC_SS,"Washington, D.C. USA",Stars and Stripes,-77.01485000,38.89807000
+FL_BH,"Bradenton, Fla. USA",The Bradenton Herald,-82.56349945,27.49522972
+FL_CCC,"Crystal River, Fla. USA",Citrus County Chronicle,-82.539505,28.88668251
+FL_NP,"Fort Myers, Fla. USA",The News-Press,-81.86364746,26.64086723
+FL_SLNT,"Fort Pierce, Fla. USA",St. Lucie News Tribune,-80.32788849,27.41076279
+FL_SS,"Ft. Lauderdale, Fla. USA",Sun Sentinel,-80.14356232,26.12367058
+FL_FTU,"Jacksonville, Fla. USA",The Florida Times-Union,-81.65579987,30.33137894
+FL_ENH,"Miami, Fla. USA",El Nuevo Herald,-80.23741913,25.72898483
+FL_MH,"Miami, Fla. USA",The Miami Herald,-80.18593597,25.78849983
+FL_NDN,"Naples, Fla. USA",Naples Daily News,-81.79301453,26.14829636
+FL_OS,"Orlando, Fla. USA",Orlando Sentinel,-81.37800598,28.55202293
+FL_PNJ,"Pensacola, Fla. USA",Pensacola News Journal,-87.21723938,30.42084503
+FL_SHT,"Sarasota, Fla. USA",Sarasota Herald-Tribune,-82.53547668,27.33647156
+FL_TIMES,"St. Petersburg, Fla. USA",Tampa Bay Times,-82.64000702,27.77030182
+FL_SN,"Stuart, Fla. USA",The Stuart News,-80.25557709,27.20018959
+FL_TD,"Tallahassee, Fla. USA",Tallahassee Democrat,-84.28064995,30.43978527
+FL_VDS,"The Villages, Fla. USA",The Villages Daily Sun,-81.94955444,28.94102097
+FL_VBPJ,"Vero Beach, Fla. USA",Press Journal,-80.39422607,27.63885117
+FL_PBP,"West Palm Beach, Fla. USA",The Palm Beach Post,-80.055180,26.688830
+GA_AJC,"Atlanta, Ga. USA",The Atlanta Journal-Constitution,-84.39111328,33.7483139
+GA_LE,"Columbus, Ga. USA",Ledger-Enquirer,-84.98763275,32.46292496
+GA_TT,"Macon, Ga. USA",The Telegraph,-83.62306976,32.83826447
+GA_RNT,"Rome, Ga. USA",Rome News-Tribune,-85.16639709,34.25371933
+HI_SA,"Honolulu, Hawaii USA",The Honolulu Star-Advertiser,-157.8620911,21.30123901
+HI_GI,"Lihu'e, Hawaii USA",The Garden Island,-159.368576,21.97492409
+ID_BFH,"Bonners Ferry, Idaho USA",Bonners Ferry Herald,-116.3174047,48.6907046
+ID_CDAP,"Coeur d’Alene, Idaho USA",Coeur d’Alene Press,-116.7866587,47.6745365
+ID_LMT,"Lewiston, Idaho USA",The Lewiston Tribune,-117.02704,46.422606
+ID_MPDN,"Moscow, Idaho USA",Moscow-Pullman Daily News,-117.002736,46.731588
+ID_BCDB,"Sandpoint, Idaho USA",Bonner County Daily Bee,-116.54779,48.27299505
+ID_TN,"Twin Falls, Idaho USA",Times-News,-114.4696121,42.55619812
+IL_BN,"Aurora, Ill. USA",The Beacon-News,-88.31577301,41.75695038
+IL_TP,"Bloomington, Ill. USA",The Pantagraph,-88.99576569,40.4794693
+IL_CST,"Chicago, Ill. USA",Chicago Sun-Times,-87.63678741,41.88848114
+IL_CT,"Chicago, Ill. USA",Chicago Tribune,-87.64730835,41.89641953
+IL_DCN,"Danville, Ill. USA",Commercial-News,-87.63018799,40.12631989
+IL_DHR,"Decatur, Ill. USA",Decatur Herald & Review,-88.94860077,39.84326172
+IL_JN,"Hillsboro, Ill. USA",The Journal-News,-89.49346161,39.15803909
+IL_TH,"Hinsdale, Ill. USA",The Hinsdalean,-87.92963409,41.80157089
+IL_JG,"Mattoon, Ill. USA",Journal Gazette,-88.37584686,39.48154831
+IL_JS,"Peoria, Ill. USA",Journal Star,-89.58776459,40.69214031
+IL_DS,"Tinley Park, Ill. USA",Daily Southtown,-87.78722382,41.602314
+IL_LCNS,"Waukegan, Ill. USA",Lake County News-Sun,-87.84479523,42.3636322
+IN_HB,"Anderson, Ind. USA",The Herald Bulletin,-85.68073273,40.10427856
+IN_ET,"Elkhart, Ind. USA",The Elkhart Truth,-85.97324371,41.6835556
+IN_ECP,"Evansville, Ind. USA",Evansville Courier & Press,-87.56015778,37.97473907
+IN_JG,"Fort Wayne, Ind. USA",The Journal Gazette,-85.09906501,41.07552521
+IN_GDN,"Greensburg, Ind. USA",Greensburg Daily News,-85.4827652,39.33600235
+IN_IS,"Indianapolis, Ind. USA",The Indianapolis Star,-86.14996456,39.7669103
+IN_NAT,"Jeffersonville, Ind. USA",News and Tribune,-85.74021912,38.27101517
+IN_KT,"Kokomo, Ind. USA",Kokomo Tribune,-86.13124084,40.48836136
+IN_PHA,"Logansport, Ind. USA",Pharos-Tribune,-86.36316681,40.75410843
+IN_CT,"Marion, Ind. USA",Chronicle-Tribune,-85.65853119,40.55594635
+IN_PT,"Merrillville, Ind. USA",Post-Tribune,-87.31756592,41.46799088
+IN_LCHD,"Michigan City, Ind. USA",La Porte County Herald-Dispatch,-86.901680,41.717720
+IN_SP,"Muncie, Ind. USA",The Star Press,-85.38771057,40.19157791
+IN_TT,"Munster, Ind. USA",The Times,-87.51406097,41.54159164
+IN_TCT,"New Castle, Ind. USA",The Courier-Times,-85.36888885,39.93018723
+IN_PI,"Richmond, Ind. USA",Palladium-Item,-84.88695526,39.83015823
+IN_TS,"Terre Haute, Ind. USA",The Tribune-Star,-87.40699005,39.46409607
+IA_TG,"Cedar Rapids, Iowa USA",The Gazette,-91.67375946,41.97634506
+IA_PC,"Iowa City, Iowa USA",Iowa City Press-Citizen,-91.52653503,41.65782547
+IA_SCJ,"Sioux City, Iowa USA",Sioux City Journal,-96.382937,42.495452
+IA_WBT,"West Branch, Iowa USA",West Branch Times,-91.34629059,41.67139053
+KS_LJW,"Lawrence, Kan. USA",Lawrence Journal-World,-95.23472595,38.97277832
+KS_WE,"Wichita, Kan. USA",The Wichita Eagle,-97.32782745,37.6853447
+KY_DN,"Bowling Green, Ky. USA",Daily News,-86.440635,36.994511
+KY_TG,"Henderson, Ky. USA",The Gleaner,-87.58999634,37.84000015
+KY_LHL,"Lexington, Ky. USA",Lexington Herald-Leader,-84.4910202,38.04104996
+KY_CJ,"Louisville, Ky. USA",The Courier-Journal,-85.76091003,38.2462883
+LA_TA,"Baton Rouge, La. USA",The Advocate,-91.18687439,30.44342041
+LA_DA,"Lafayette, La. USA",The Daily Advertiser,-92.04930878,30.21831131
+LA_ACA,"Lafayette, La. USA",The Acadiana Advocate,-92.01644135,30.2208519
+LA_NS,"Monroe, La. USA",The News-Star,-92.11904907,32.50965118
+LA_TPNOA,"New Orleans, La. USA",The Times-Picayune/The New Orleans Advocate,-90.07182312,29.9450016
+LA_TT,"Shreveport, La. USA",The Times,-93.74375153,32.5115242
+ME_KJ,"Augusta, Maine USA",Kennebec Journal,-69.80332184,44.31501007
+ME_MDI,"Bar Harbor, Maine USA",Mount Desert Islander,-68.20324707,44.38441849
+ME_EA,"Ellsworth, Maine USA",The Ellsworth American,-68.42440796,44.54079819
+ME_PPH,"Portland, Maine USA",Portland Press Herald,-70.25665283,43.65914536
+ME_MS,"Waterville, Maine USA",Morning Sentinel,-69.62863922,44.54943848
+MD_TC,"Annapolis, Md. USA",The Capital,-76.52968597,38.98293304
+MD_TS,"Baltimore, Md. USA",The Baltimore Sun,-76.61249542,39.29544067
+MD_DT,"Salisbury, Md. USA",The Daily Times,-75.59532166,38.3657341
+MD_CCT,"Westminster, Md. USA",Carroll County Times,-76.99256134,39.57448578
+MA_BG,"Boston, Mass. USA",The Boston Globe,-71.04769135,42.31427002
+MA_ST,"New Bedford, Mass. USA",The Standard-Times,-70.93086243,41.63765335
+MA_BE,"Pittsfield, Mass. USA",The Berkshire Eagle,-73.26145935,42.44665527
+MA_TR,"Springfield, Mass. USA",The Republican,-72.59811401,42.10571289
+MA_TG,"Worcester, Mass. USA",Telegram & Gazette,-71.8021698,42.26210022
+MI_MC," Muskegon, Mich. USA",The Muskegon Chronicle,-86.25257874,43.23474121
+MI_DFP,"Detroit, Mich. USA",Detroit Free Press,-83.05075073,42.3300705
+MI_DN,"Detroit, Mich. USA",The Detroit News,-83.05410767,42.32842255
+MI_GRP,"Grand Rapids, Mich. USA",The Grand Rapids Press,-85.67127228,42.97039032
+MI_JCP,"Jackson, Mich. USA",Jackson Citizen Patriot,-83.7454071,42.27944183
+MI_KG,"Kalamazoo, Mich. USA",Kalamazoo Gazette,-85.60111237,42.29243469
+MI_LSJ,"Lansing, Mich. USA",Lansing State Journal,-84.55227661,42.73202133
+MI_TH,"Port Huron, Mich. USA",Times Herald,-82.42844984,42.97583006
+MI_HP,"Saint Joseph, Mich. USA",The Herald-Palladium,-86.457290,42.055070
+MN_BD,"Brainerd, Minn. USA",Brainerd Dispatch,-94.21894836,46.35848999
+MN_DNT,"Duluth, Minn. USA",Duluth News Tribune,-92.09984981,46.78796522
+MN_ST,"Minneapolis, Minn. USA",Star Tribune,-93.261329,44.975539
+MN_PP,"St. Paul, Minn. USA",Pioneer Press,-93.09320068,44.94572067
+MN_WCT,"Willmar, Minn. USA",West Central Tribune,-95.05449677,45.12064362
+MS_SH,"Biloxi, Miss. USA",Sun Herald,-88.89633942,30.39437675
+MS_CD,"Columbus, Miss. USA",The Commercial Dispatch,-88.431718,33.494608
+MS_GC,"Greenwood, Miss. USA",Greenwood Commonwealth,-90.03890991,33.51025391
+MS_CL,"Jackson, Miss. USA",The Clarion-Ledger,-90.18334961,32.29737473
+MO_FS,"Fulton, Mo. USA",Fulton Sun,-91.94689941,38.84733582
+MO_NT,"Jefferson City, Mo. USA",News Tribune,-92.17784119,38.57751465
+MO_JG,"Joplin, Mo. USA",The Joplin Globe,-94.51279449,37.0883522
+MO_KCS,"Kansas City, Mo. USA",The Kansas City Star,-94.58106232,39.09215164
+MO_NNL,"Maryville, Mo. USA",Nodaway News Leader,-94.87245941,40.34788132
+MO_NL,"Springfield, Mo. USA",News-Leader,-93.29267883,37.21457291
+MO_WCR,"Warrenton, Mo. USA",Warren County Record,-91.14727890,38.81136620
+MT_IR,"Helena, Mont. USA",Independent Record,-112.0212173,46.58974457
+MT_DIL,"Kalispell, Mont. USA",Daily Inter Lake,-114.3043137,48.20391846
+MT_LCL,"Polson, Mont. USA",Lake County Leader,-114.1617448,47.6944497
+NE_BDS,"Beatrice, Neb. USA",Beatrice Daily Sun,-96.74537659,40.26778412
+NE_CT,"Columbus, Neb. USA",Columbus Telegram,-97.35675812,41.43174362
+NE_FT,"Fremont, Neb. USA",Fremont Tribune,-96.5,41.43000031
+NE_LJS,"Lincoln, Neb. USA",Lincoln Journal Star,-96.707711,40.81532
+NE_OWH,"Omaha, Neb. USA",Omaha World-Herald,-95.93384552,41.26016617
+NV_EDFP,"Elko, Nev. USA",Elko Daily Free Press,-115.7377548,40.85852432
+NV_SUN,"Las Vegas, Nev. USA",Las Vegas Sun,-115.139679,36.17178726
+NV_LVRJ,"Las Vegas, Nev. USA",Las Vegas Review-Journal,-115.1397629,36.17182922
+NV_RGJ,"Reno, Nev. USA",Reno Gazette-Journal,-119.7963257,39.52901459
+NH_CM,"Concord, N.H. USA",Concord Monitor,-71.53660583,43.20724869
+NH_LDS,"Laconia, N.H. USA",The Laconia Daily Sun,-71.46246000,43.54724000
+NH_MLT,"Peterborough, N.H. USA",Monadnock Ledger-Transcript,-71.92827606,42.85737991
+NH_VN,"West Lebanon, N.H. USA",Valley News,-72.32055664,43.62634277
+NJ_TR,"Bergen County, N.J. USA",The Record,-74.07701111,40.92627716
+NJ_JJ,"Jersey City, N.J. USA",The Jersey Journal,-74.06390381,40.73065948
+NJ_SJT,"Mullica Hill, N.J. USA",South Jersey Times,-75.1563797,39.83413696
+NJ_SL,"Newark, N.J. USA",The Star-Ledger,-74.17418671,40.73196793
+NJ_DR,"Parsippany, N.J. USA",Daily Record,-74.4223175,40.84661865
+NJ_PAC,"Pleasantville, N.J. USA",The Press of Atlantic City,-74.53812408,39.39749908
+NJ_TTT,"Trenton, N.J. USA",The Times of Trenton,-74.73999786,40.22000122
+NJ_DJ,"Vineland, N.J. USA",The Daily Journal,-75.02610779,39.48619461
+NJ_HN,"Woodland Park, N.J. USA",Herald News,-74.21206665,40.88117218
+NM_ADN,"Alamogordo, N.M. USA",The Alamogordo Daily News,-105.9552307,32.918396
+NM_CCA,"Carlsbad, N.M. USA",Carlsbad Current-Argus,-104.2264709,32.41420746
+NM_DT,"Farmington, N.M. USA",The Daily Times,-108.2066498,36.73030472
+NM_TCR,"Farmington, N.M. USA",The Tri-City Record,-108.204950,36.729270
+NM_LCSN,"Las Cruces, N.M. USA",Las Cruces Sun-News,-106.781456,32.31129074
+NY_TU,"Albany, N.Y. USA",Times Union,-73.79844666,42.66648865
+NY_TC,"Auburn, N.Y. USA",The Citizen,-76.56811523,42.93240738
+NY_EDLP,"Brooklyn, N.Y. USA",El Diario - La Prensa,-73.98712921,40.69336319
+NY_BN,"Buffalo, N.Y. USA",The Buffalo News,-78.87612915,42.87725067
+NY_IJ,"Ithaca, N.Y. USA",Ithaca Journal,-76.49985504,42.4394989
+NY_ND,"Melville, N.Y. USA",Newsday,-73.98153687,40.75837326
+WSJ,"New York, N.Y. USA",The Wall Street Journal,-74.01464844,40.71108246
+NY_DN,"New York, N.Y. USA",Daily News,-74.00725555,40.71448898
+NY_NYT,"New York, N.Y. USA",The New York Times,-73.98726654,40.75705338
+NY_ETCNY,"New York, N.Y. USA",The Epoch Times: Chinese New York Edition,-73.99472046,40.74803925
+NY_PJ,"Poughkeepsie, N.Y. USA",Poughkeepsie Journal,-73.926783,41.706464
+NY_SIA,"Staten Island, N.Y. USA",Staten Island Advance,-74.08750916,40.60112762
+NY_PS,"Syracuse, N.Y. USA",The Post-Standard,-76.14739227,43.04999161
+NY_JN,"Westchester County, N.Y. USA",The Journal News,-73.72429657,41.02273941
+NY_WJNY,"Whitestone, N.Y. USA",World Journal - New York,-73.82728577,40.7820549
+NC_ACT,"Asheville, N.C. USA",Asheville Citizen-Times,-82.55314636,35.59846115
+NC_CO,"Charlotte, N.C. USA",The Charlotte Observer,-80.84964752,35.22362137
+NC_HS,"Durham, N.C. USA",The Herald-Sun,-78.89601135,35.99527359
+NC_GG,"Gastonia, N.C. USA",Gaston Gazette,-81.142609,35.268493
+NC_NR,"Greensboro, N.C. USA",News & Record,-79.78806305,36.07157516
+NC_HDR,"Hickory, N.C. USA",Hickory Daily Record,-81.32006073,35.71694565
+NC_MN,"Marion, N.C. USA",The McDowell News,-82.01055145,35.68424988
+NC_NH,"Morganton, N.C. USA",The News Herald,-81.6907959,35.74541473
+NC_NO,"Raleigh, N.C. USA",The News & Observer,-78.6418457,35.77814865
+NC_TS,"Shelby, N.C. USA",The Star,-81.53565216,35.28966522
+NC_SRL,"Statesville, N.C. USA",Statesville Record & Landmark,-80.88870239,35.7853508
+NC_WSJ,"Winston-Salem, N.C. USA",Winston-Salem Journal,-80.2410965,36.09959793
+ND_DP,"Dickinson, N.D. USA",The Dickinson Press,-102.8126297,46.8801918
+ND_TF,"Fargo, N.D. USA",The Forum,-96.78610992,46.8769722
+ND_GFH,"Grand Forks, N.D. USA",Grand Forks Herald,-97.03363037,47.92601013
+ND_JS,"Jamestown, N.D. USA",The Jamestown Sun,-98.7096405,46.91049576
+OH_ABJ,"Akron, Ohio USA",Akron Beacon Journal,-81.52052307,41.07588577
+OH_REP,"Canton, Ohio USA",The Repository,-81.375658,40.795471
+OH_CPD,"Cleveland, Ohio USA",The Plain Dealer,-81.6806488,41.50630569
+OH_CD,"Columbus, Ohio USA",The Columbus Dispatch,-83.00301361,39.9620018
+OH_DDN,"Dayton, Ohio USA",Dayton Daily News,-84.20081329,39.77963257
+OH_TR,"Dover-New Philadelphia, Ohio USA",The Times-Reporter,-81.45760345,40.50530624
+OH_CT,"Elyria, Ohio USA",The Chronicle-Telegram,-82.10435486,41.36574554
+OH_JN,"Hamilton, Ohio USA",Journal News,-84.56264496,39.40008163
+OH_TI,"Massillon, Ohio USA",The Independent,-81.5248642,40.79781342
+OH_MG,"Medina, Ohio USA",The Medina-Gazette,-81.88427734,41.14088821
+OH_SNS,"Springfield, Ohio USA",Springfield News Sun,-83.80773163,39.92718887
+OH_TB,"Toledo, Ohio USA",The Blade,-83.53281403,41.65527344
+OK_TW,"Tulsa, Okla. USA",Tulsa World,-95.99221039,36.15285492
+OK_WEDN,"Weatherford, Okla. USA",Weatherford Daily News,-98.70703125,35.52608109
+OR_TO,"Portland, Ore. USA",The Oregonian,-122.6756287,45.51179504
+OR_SJ,"Salem, Ore. USA",Statesman Journal,-123.0345688,44.94115067
+PA_MC,"Allentown, Pa. USA",The Morning Call,-75.47039795,40.60420609
+PA_AM,"Altoona, Pa. USA",Altoona Mirror,-78.40039825,40.48903275
+PA_ET,"Easton, Pa. USA",The Express-Times,-75.20920563,40.69068527
+PA_TRW,"Greensburg, Pa. USA",Tribune-Review - Westmoreland Edition,-79.5464859,40.31415558
+PA_PN,"Harrisburg, Pa. USA",The Patriot-News,-76.87705231,40.26411057
+PA_SS,"Hazleton, Pa. USA",Standard-Speaker,-75.97627258,40.95462036
+PA_TD,"Johnstown, Pa. USA",The Tribune-Democrat,-78.91835785,40.32725906
+PA_LNP,"Lancaster, Pa. USA",LNP,-76.30625153,40.03751373
+PA_LDN,"Lebanon, Pa. USA",Lebanon Daily News,-76.42267609,40.33045959
+PA_PPG,"Pittsburgh, Pa. USA",Pittsburgh Post-Gazette,-80.00648499,40.43993759
+PA_RH,"Pottsville, Pa. USA",The Republican-Herald,-76.19538879,40.68546677
+PA_TT,"Scranton, Pa. USA",The Times-Tribune,-75.666767,41.409129
+PA_HER,"Sharon, Pa. USA",The Herald,-80.50598145,41.2325592
+PA_DA,"Somerset, Pa. USA",Daily American,-79.07911682,40.008461
+PA_CDT,"State College, Pa. USA",Centre Daily Times,-77.79022217,40.83759689
+PA_DI,"Sunbury, Pa. USA",The Daily Item,-76.79444885,40.86260605
+PA_CV,"Wilkes-Barre, Pa. USA",The Citizens' Voice,-75.87825775,41.24604797
+PA_YDR,"York, Pa. USA",York Daily Record,-76.77542877,39.97256088
+PA_YD,"York, Pa. USA",York Dispatch,-76.7292099,39.96524429
+RI_PJ,"Providence, R.I. USA",The Providence Journal,-71.42144012,41.81218338
+RI_WS,"Westerly, R.I. USA",The Westerly Sun,-71.83132172,41.37644196
+SC_IP,"Bluffton, S.C. USA",The Island Packet,-80.86093903,32.23720551
+SC_TS,"Columbia, S.C. USA",The State,-81.04524994,33.99855042
+SC_MN,"Florence, S.C. USA",The Morning News,-79.76583099,34.1935997
+SC_GN,"Greenville, S.C. USA",The Greenville News,-82.40022278,34.84801865
+SC_SN,"Myrtle Beach, S.C. USA",The Sun News,-78.8826828,33.69356537
+SC_TH,"Rock Hill, S.C. USA",The Herald,-81.029649,34.927551
+SD_DR,"Mitchell, S.D. USA",Mitchell Republic,-98.02363586,43.70845413
+SD_RCJ,"Rapid City, S.D. USA",Rapid City Journal,-103.2308655,44.08117676
+SD_SFAL,"Sioux Falls, S.D. USA",Argus Leader,-96.73127747,43.54602051
+SD_YDP,"Yankton, S.D. USA",Yankton Daily Press,-97.39705658,42.87178802
+TN_CTFP,"Chattanooga, Tenn. USA",Chattanooga Times Free Press,-85.30434418,35.04154587
+TN_LC,"Clarksville, Tenn. USA",The Leaf-Chronicle,-87.35778046,36.52615356
+TN_JS,"Jackson, Tenn. USA",The Jackson Sun,-88.82255554,35.61563492
+TN_KNS,"Knoxville, Tenn. USA",News Sentinel,-83.94989014,35.9665947
+TN_DT,"Maryville, Tenn. USA",The Daily Times,-83.97048187,35.75767136
+TN_CA,"Memphis, Tenn. USA",The Commercial Appeal,-90.04891205,35.1496582
+TN_DNJ,"Murfreesboro, Tenn. USA",The Daily News Journal,-86.39434052,35.8443985
+TN_TTT,"Nashville, Tenn. USA",The Tennessee Tribune,-86.80227661,36.17021561
+TN_TT,"Nashville, Tenn. USA",The Tennessean,-86.78686523,36.15727997
+TX_ARN,"Abilene, Texas USA",Abilene Reporter-News,-99.73426056,32.44950104
+TX_AAS,"Austin, Texas USA",Austin American-Statesman,-97.74299622,30.26758003
+TX_BE,"Beaumont, Texas USA",The Beaumont Enterprise,-94.10158539,30.08614922
+TX_CCCT,"Corpus Christi, Texas USA",Corpus Christi Caller-Times,-97.39590454,27.79898643
+TX_DMN,"Dallas, Texas USA",The Dallas Morning News,-96.80618286,32.77600098
+TX_DRC,"Denton, Texas USA",Denton Record-Chronicle,-97.13098145,33.21656036
+TX_EPT,"El Paso, Texas USA",El Paso Times,-106.4929581,31.75568581
+TX_FWST,"Fort Worth, Texas USA",Fort Worth Star-Telegram,-97.32924652,32.74863052
+TX_GCDN,"Galveston, Texas USA",Galveston County Daily News,-94.86611938,29.28461075
+TX_HC,"Houston, Texas USA",Houston Chronicle,-95.36420441,29.76093102
+TX_LMT,"Laredo, Texas USA",Laredo Morning Times,-99.50298309,27.55520058
+TX_LNJ,"Longview, Texas USA",Longview News-Journal,-94.74107361,32.50064087
+TX_MNM,"Marshall, Texas USA",The Marshall News Messenger,-94.364632,32.5459031
+TX_ST,"San Angelo, Texas USA",Standard-Times,-100.4378891,31.4636097
+TX_SAEN,"San Antonio, Texas USA",San Antonio Express-News,-98.48526764,29.42737961
+TX_TDT,"Temple, Texas USA",Temple Daily Telegram,-97.34284973,31.0979805
+TX_TG,"Texarkana, Texas USA",Texarkana Gazette,-94.04360199,33.42250061
+TX_TMT,"Tyler, Texas USA",Tyler Morning Telegraph,-95.29429626,32.34747314
+TX_VA,"Victoria, Texas USA",Victoria Advocate,-97.00402069,28.79846573
+TX_WTH,"Waco, Texas USA",Waco Tribune-Herald,-97.1497345,31.57170105
+TX_TRN,"Wichita Falls, Texas USA",Times Record News,-98.50099182,33.90830994
+UT_DH,"Provo, Utah USA",The Daily Herald,-111.6619034,40.25516129
+UT_TS,"St. George, Utah USA",The Spectrum,-113.5690384,37.10528564
+VT_BB,"Bennington, Vt. USA",Bennington Banner,-73.19631195,42.87801743
+VT_BR,"Brattleboro, Vt. USA",Brattleboro Reformer,-72.56211853,42.88061905
+VT_BFP,"Burlington, Vt. USA",The Burlington Free Press,-73.21323462,44.47591983
+VA_ACH,"Arlington, Va. USA",Arlington Catholic Herald,-77.10358429,38.87201691
+VA_BHC,"Bristol, Va. USA",Bristol Herald Courier,-82.19395447,36.59922791
+VA_DP,"Charlottesville, Va. USA",Daily Progress,-78.47636688,38.08426396
+VA_CSE,"Culpeper, Va. USA",Culpeper Star-Exponent,-77.99676514,38.47518158
+VA_DRB,"Danville, Va. USA",Danville Register & Bee,-79.41719818,36.58599091
+VA_FLS,"Fredericksburg, Va. USA",The Free Lance-Star,-77.45914459,38.30088806
+VA_NA,"Lynchburg, Va. USA",The News & Advance,-79.14283752,37.41402054
+USAT,"McLean, Va. USA",USA Today,-77.2166214,38.92927551
+VA_RTD,"Richmond, Va. USA",Richmond Times-Dispatch,-77.43343353,37.54053116
+VA_TRT,"Roanoke, Va. USA",The Roanoke Times,-79.9405365,37.27152634
+VA_NL,"Staunton, Va. USA",The News Leader,-79.07272339,38.15001678
+VA_NV,"Waynesboro, Va. USA",The News Virginian,-78.89738464,38.07112885
+WA_BH,"Bellingham, Wash. USA",Bellingham Herald,-122.4791641,48.74741745
+WA_TCH,"Kennewick, Wash. USA",Tri-City Herald,-119.1169815,46.20803833
+WA_CBH,"Moses Lake, Wash. USA",Columbia Basin Herald,-119.2878631,47.1193304
+WA_TO,"Olympia, Wash. USA",The Olympian,-122.8851776,47.04645538
+WA_ST,"Seattle, Wash. USA",The Seattle Times,-122.3294525,47.60358047
+WA_SR,"Spokane, Wash. USA",The Spokesman-Review,-117.4122772,47.65726089
+WA_NT,"Tacoma, Wash. USA",The News Tribune,-122.441658,47.2551651
+WA_COL,"Vancouver, Wash. USA",The Columbian,-122.678236,45.6273
+WV_PNS,"Parkersburg, W. Va. USA",Parkersburg News and Sentinel,-81.5610199,39.26687622
+WI_PC,"Appleton, Wis. USA",The Post-Crescent,-88.408845,44.26296
+WI_BNR,"Baraboo, Wis. USA",Baraboo News Republic,-89.7305603,43.45246506
+WI_BDDC,"Beaver Dam, Wis. USA",Beaver Dam Daily Citizen,-88.83732605,43.45776749
+WI_TR,"Fond du Lac, Wis. USA",The Reporter,-88.44828033,43.77534485
+WI_GBP,"Green Bay, Wis. USA",Green Bay Press-Gazette,-88.01015966,44.51279484
+WI_JG,"Janesville, Wis. USA",The Janesville Gazette,-89.02156067,42.68347931
+WI_WSJ,"Madison, Wis. USA",Wisconsin State Journal,-89.38665994,43.07292469
+WI_HTR,"Manitowoc, Wis. USA",Herald Times Reporter,-87.66172461,44.10759486
+WI_MNH,"Marshfield, Wis. USA",Marshfield News-Herald,-90.17510223,44.66505051
+WI_SN,"Medford, Wis. USA",The Star News,-90.34783173,45.13780212
+WI_MJS,"Milwaukee, Wis. USA",Milwaukee Journal Sentinel,-87.90684509,43.04180908
+WI_ON,"Oshkosh, Wis. USA",Oshkosh Northwestern,-88.54443359,44.02490997
+WI_PDR,"Portage, Wis. USA",Portage Daily Register,-89.49752045,43.56183624
+WI_SP,"Sheboygan, Wis. USA",The Sheboygan Press,-87.710155,43.750854
+WI_SPJ,"Stevens Point, Wis. USA",Stevens Point Journal,-89.5747894,44.52390522
+WI_WDH,"Wausau, Wis. USA",The Wausau Daily Herald,-89.61824799,44.960392
+WI_DT,"Wisconsin Rapids, Wis. USA",Daily Tribune,-89.828241,44.391609
+ARG_CLA,"Buenos Aires, Argentina",Clarin,-58.42965317,-34.61523438
+ARG_ET,"Posadas, Argentina",El Territorio,-55.92341614,-27.40208244
+AUS_WA,"Perth, Australia",The West Australian,115.8119583,-31.91204262
+AUT_SN,"Salzburg, Austria",Salzburger Nachrichten,13.01152802,47.79247665
+AUT_KUR,"Vienna, Austria",Kurier,16.34609413,48.19949341
+AUT_DS,"Vienna, Austria",Der Standard,16.36453247,48.21123123
+AUT_NVT,"Vorarlberg, Austria",Neue Vorarlberger Tageszeitung,9.656638145,47.27699661
+AUT_VN,"Vorarlberg, Austria",Vorarlberger Nachrichten,9.656815529,47.27699661
+BEL_DM,"Brussels, Belgium",De Morgen,4.348997593,50.85541153
+BER_RG,"Hamilton, Bermuda",The Royal Gazette,-64.78292847,32.29660416
+BRA_CB,"Brasilia, Brazil",Correio Braziliense,-47.89774664,-15.79210907
+BRA^PR_DDC,"Ponta Grossa, Brazil",Diário dos Campos,-50.16285324,-25.09506798
+BRA^PE_JDC,"Recife, Brazil",Jornal do Commercio,-34.91463852,-8.085167885
+BRA_ATARDE,"Salvador da Bahia, Brazil",A Tarde,-38.50123596,-12.97290421
+BRA_OE,"São Paulo, Brazil",O Estado de S. Paulo,-46.67105865,-23.51236725
+BRA_FDSP,"São Paulo, Brazil",Folha de S. Paulo,-52.32648468,-31.76320648
+BRA^ES_AT,"Vitória, Brazil",A Tribuna,-40.30622944,-20.30676641
+CAN_CH,"Calgary, Canada",Calgary Herald,-114.0148468,51.05154037
+CAN_CS,"Calgary, Canada",The Calgary Sun,-114.0631948,51.04507484
+CAN_EJ,"Edmonton, Canada",Edmonton Journal,-113.4923172,53.54566574
+CAN_ES,"Edmonton, Canada",Edmonton Sun,-113.4903717,53.54621887
+CAN_DCN,"Markham, Canada",Daily Commercial News and Construction Record,-79.32958221,43.83202362
+CAN_MG,"Montreal, Canada",Montreal Gazette,-73.572258,45.50064468
+CAN_JM,"Montreal, Canada",Le Journal de Montréal,-73.55436707,45.51233292
+CAN_OS,"Ottawa, Canada",The Ottawa Sun,-75.69189453,45.42150116
+CAN_TGAM,"Toronto, Canada",The Globe and Mail,-79.39504099,43.64242944
+CAN_NP,"Toronto, Canada",National Post,-79.34727478,43.75101471
+CAN_TS,"Toronto, Canada",Toronto Star,-79.37473297,43.64208603
+CAN_TSUN,"Toronto, Canada",Toronto Sun,-79.3853302,43.64856339
+CAN_VS,"Vancouver, Canada",The Vancouver Sun,-123.1128235,49.28598404
+CAN_TP,"Vancouver, Canada",The Province,-123.1128235,49.28598404
+CAN_TWS,"Windsor, Canada",The Windsor Star,-83.04160309,42.31845093
+CAN_WFP,"Winnipeg, Canada",Winnipeg Free Press,-97.17516327,49.93408585
+CHIL_LUN,"Santiago, Chile",Las Ultimas Noticias,-70.63477325,-33.4611702
+CHIL_EM,"Santiago, Chile",El Mercurio,-70.59259796,-33.38399124
+CHI_CD,"Beijing, China",China Daily,116.4081955,39.9046669
+CHI_PD,"Beijing, China",People’s Daily,116.4431915,39.92103577
+COL_VL,"Bucaramanga, Colombia",Vanguardia Liberal,-73.11763763,7.120789051
+COL_EU,"Cartagena, Colombia",El Universal,-75.49513245,10.39640999
+CRO_VL,"Zagreb, Croatia",Vecernji List,15.96036053,45.79392624
+CYP_PHIL,"Nicosia, Cyprus",Phileleftheros,33.37752151,35.16253662
+DEN_POL,"Copenhagen, Denmark",Politiken,12.56935515,55.67630969
+EST_SLO,"Tallinn, Estonia",Õhtuleht,24.76159668,59.44104385
+FIJI_FT,"Suva, Fiji",The Fiji Times,178.423233,-18.14486885
+FRA_JDE,"Mulhouse, France",Le Journal des Enfants,7.339750767,47.74952698
+GEOR_TM,"Tbilisi, Georgia",The Messenger,44.78263474,41.70475769
+GER_AA,"Augsburg, Germany",Augsburger Allgemeine,10.89799494,48.36999848
+GER_TAZ,"Berlin, Germany",Die Tageszeitung,13.37699509,52.81606674
+GER_NW,"Bielefeld, Germany",Neue Westfälische,8.533332825,52.02282715
+GER_FAZ,"Frankfurt, Germany",Frankfurter Allgemeine Zeitung,8.66958046,50.13144302
+GER_RZ,"Koblenz, Germany",Rhein-Zeitung,7.592795268,50.36079504
+GER_MM,"Mannheim, Germany",Mannheimer Morgen,8.466785029,49.48651023
+GER_PNP,"Passau, Germany",Passauer Neue Presse,13.37154961,48.55881119
+GER_SP,"Ulm, Germany",Südwest Presse,9.987810135,48.39718628
+GREE_NK,"Heraklion, Greece",Nea Kriti,25.165136,35.321791
+GREE_TAX,"Volos, Greece",Taxydromos,22.94719070,39.35923470
+ICE_MORG,"Reykjavik, Iceland",Morgunbladid,-21.91609764,64.14435577
+IND_NIE,"Chennai, India",New Indian Express,80.16636658,13.04646206
+IND_DC,"Hyderabad, India",Deccan Chronicle,78.49171448,17.44083023
+IND_PRAHM,"Mumbai, India",Prahaar - Mumbai,72.85616302,19.01761436
+IND_TP,"New Delhi, India",The Pioneer,77.24184418,28.62990952
+IND_AGE,"New Delhi, India",Asian Age,77.18179321,28.55125046
+IND_PRAHR,"Ratnagiri, India",Prahaar - Ratnagiri,73.31201935,16.9902153
+IND_PRAHS,"Sindhudurg, India",Prahaar - Sindhudurg,73.5594101,16.34921837
+IRL_IE,"Cork, Ireland",Irish Examiner,-8.472805023,51.8983345
+IRL_IT,"Dublin, Ireland",Irish Times,-6.255142212,53.34579468
+ISR_JP,"Jerusalem, Israel",The Jerusalem Post,35.21666718,31.79333305
+ISR_YA,"RISHON LETZION, Israel",Yedioth Ahronoth,0,0
+ISR_HA,"Tel Aviv, Israel",Haaretz - English Edition,34.98666763,32.825634
+ISR_HAHE,"Tel Aviv, Israel",Haaretz - Hebrew Edition,34.98665619,32.82562256
+ITA_LS,"Torino, Italy",La Stampa,7.705403805,45.06951141
+JAM_TG,"Kingston, Jamaica",The Gleaner,-76.7911273,17.9761068
+JPN_JT,"Tokyo, Japan",The Japan Times,139.7457428,35.64180756
+KOS_KD,"Prishtina, Kosovo",Koha Ditore,21.16453552,42.87242508
+KUW_KT,"Kuwait, Kuwait",Kuwait Times,47.97646332,29.3301239
+LITH_LR,"Vilnius, Lithuania",Lietuvos Rytas,25.26925877,54.68986966
+LUX_LW,"Luxembourg City, Luxembourg",Luxemburger Wort,6.129513264,49.71239471
+MAL_STAR,"Kuala Lumpur, Malaysia",Star,101.7128448,3.190210342
+MEX_INF,"Guadalajara, Mexico",El Informador,-103.3510818,20.68758965
+MEX_PM,"Guadalajara, Mexico",Milenio Jalisco,-103.3510796,20.69858979
+MEX_ML,"León, Mexico",Milenio León,-101.6782913,21.13266563
+MEX_DDY,"Mérida, Mexico",Diario de Yucatán,-89.62253571,20.97691917
+MEX_LRDM,"Mexico City, Mexico",La Razón de México,-99.13065338,19.46342087
+MEX_EU,"Mexico City, Mexico",El Universal,-99.14400482,19.44280815
+MEX_REF,"Mexico City, Mexico",Reforma,-99.13288951,19.94187006
+MEX_MDDM,"Monterrey, Mexico",Milenio Monterrey,-100.309535,25.77083977
+MEX_MH,"Pachuca, Mexico",Milenio Hidalgo,-98.73310089,20.12161255
+MEX_EHDS,"Saltillo, Mexico",El Heraldo de Saltillo,-101.0026321,25.4242897
+MEX_VAN,"Saltillo, Mexico",Vanguardia,-100.9950867,25.43839645
+MEX_MT,"Tampico, Mexico",Milenio Tamaulipas,-97.87136078,22.24840355
+MEX_MEDM,"Toluca, Mexico",Milenio Estado de México,-99.64967346,19.29133797
+MEX_LOM,"Torreon, Mexico",Milenio Laguna,-103.4119999,25.57027984
+MOR_AA,"Casablanca, Morocco",Alahdath Almaghrebia,-7.589842796,33.57310867
+NET_HP,"Amsterdam, Netherlands",Het Parool,4.932118416,52.37175751
+NET_TROUW,"Amsterdam, Netherlands",Trouw,4.893194675,52.37311935
+NET_HFD,"Amsterdam, Netherlands",Het Financieele Dagblad,4.917886734,52.34836578
+NET_DV,"Amsterdam, Netherlands",de Volkskrant,4.8941679,52.37021637
+NET_AD2,"Rotterdam, Netherlands",AD,4.905636787,52.38121414
+NEWZ_TP,"Christchurch, New Zealand",The Press,172.6366425,-43.53163528
+NEWZ_DP,"Wellington, New Zealand",The Dominion Post,174.7762146,-41.28647995
+OMAN_MD,"Muscat, Oman",Muscat Daily,58.59083176,23.61416626
+PAK_DAWN,"Karachi, Pakistan",Dawn,67.02233124,24.84866333
+PAN_ES,"Panama City, Panama",El Siglo ,-79.53889465,8.974006653
+PAN_LEP,"Panama City, Panama",La Estrella de Panama,-79.53889465,8.984006882
+PHI_MB,"Manila, Philippines",Manila Bulletin,120.9761581,14.60103226
+PHI_BW,"Quezon City, Philippines",BusinessWorld,121.0306396,14.61633015
+ROM_MDC,"Cluj-Napoca, Romania",Monitorul de Cluj,23.5939312,46.75710678
+RUS_MP,"Moscow, Russia",Moskovskaya Pravda,37.61802301,55.7517086
+SAU_MNP,"Makkah, Saudi Arabia",Makkah News Paper,39.79549026,21.48034286
+SLK_DEN,"Bratislava, Slovakia",Denník N,17.12951469,48.16878128
+SAF_CT,"Cape Town, South Africa",Cape Times,18.41985893,-33.92398834
+SAF_TM,"Durban, South Africa",The Mercury,31.01900291,-29.84383011
+SKOR_DID,"Seoul, South Korea",The Dong-a Ilbo,126.9930066,37.56336831
+SKOR_JAI,"Seoul, South Korea",JoongAng Ilbo,126.9930038,37.56336975
+SKOR_CI,"Seoul, South Korea",The Chosun Ilbo,126.9930066,37.56336831
+SKOR_MB,"Seoul, South Korea",The Maeil Business Newspaper,126.9930038,37.56336975
+SPA_ARA,"Barcelona, Spain",ARA,2.156472206,41.38261032
+SPA_LV,"Barcelona, Spain",La Vanguardia,2.145745336,41.39285541
+SPA_SEGRE,"Lleida, Spain",Segre,0.6271205544,41.61450958
+SWE_GT,"Göteborg, Sweden",Göteborgstidningen,11.9668951,57.70132828
+SWE_KV,"Malmö, Sweden",Kvällsposten,13.00130272,55.6033287
+SWE_DN,"Stockholm, Sweden",Dagens Nyheter,18.01527977,59.32705307
+SWE_EX,"Stockholm, Sweden",Expressen,18.06245041,59.33218002
+SWI_BK,"Zürich, Switzerland",Blick,8.5461352,47.3641809
+TAIW_TMT,"Taipei, Taiwan",The Merit Times,121.579110,25.048480
+SING_LZ,"Singapore, The Republic of Singapore",Lianhe Zaobao,103.8485641,1.343078971
+TUR_OLAY,"Bursa, Turkey",Olay,29.07495663,40.19618981
+TUR_FOTO,"Istanbul, Turkey",Fotomac,28.96383858,41.01300049
+TUR_TAK,"Istanbul, Turkey",Takvim,28.96383858,41.01300049
+TUR_DS,"Istanbul, Turkey",Daily Sabah,28.96383858,41.01300049
+TUR_SAB,"Istanbul, Turkey",Sabah,28.96383858,41.01300049
+TUR_TICAR,"Izmir, Turkey",Ticaret Gazetesi,27.17123222,38.44015503
+TUR_HEG,"Izmir, Turkey",Haber Ekspres Gazetesi,27.13786316,38.42550659
+TUR_YEN,"Izmir, Turkey",Yeniasir,27.13755989,38.42351151
+UK_MAIL,"London, UK",Daily Mail,-0.1911280006,51.50136948
+UAE_TN,"Abu Dhabi, United Arab Emirates",The National,53.73691559,23.46772385
+UAE_GN,"Dubai, United Arab Emirates",Gulf News,55.30748367,25.27113914
