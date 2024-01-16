@@ -18,8 +18,9 @@ The `make_images.sh` bash script is run via cron job to retrieve the latest news
 
 ![SJMN](/static/sjmn.jpeg)
 
+https://github.com/Alexander-Rees/Inkpage/assets/120013251/967f7d0f-7323-411a-ad56-ba32395a8213
+
 https://github.com/Alexander-Rees/Inkpage/assets/120013251/3148c8b7-f919-43a6-9e8e-b44b144c69f5
 
 
-https://github.com/Alexander-Rees/Inkpage/assets/120013251/967f7d0f-7323-411a-ad56-ba32395a8213
 
